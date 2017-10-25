@@ -50,6 +50,9 @@
           <a class="selector" data-scroll href="#CONTACTO" aria-pressed="true">CONTACTO<i class="fa fa-phone fa-1x pull-right" style="margin-top: 5%;" aria-hidden="true"></i></a>
         </ul>
       </nav>
+       <div class="op-menu">
+      <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+    </div>
     </header>
     
     <p class="text-banner">MANTENIMIENTO DE MAQUINARIA <br> PESADA</p>
@@ -68,34 +71,34 @@
   <div class="section">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
-            <h3 style="color: #97D1DA;">HACEMOS LA DIFERENCIA</h3>
-            <p>Un buen numero de refacciones adecuadas a la demanda de nuestra sucursal, lineas teléfonicas para agendar una cita o solicitar presupuestos y un sitio web para llegar a cualquier parte de la republica y asi respaldar la disponibilidad en nuestro país, así como el rápido servicio de nuestros proveedores, hacen posible el poder satisfacer las necesidades del mercado mexicano en la mayoría de los casos en menos de 24 horas.</p>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3 class="hm" style="color: #97D1DA;">HACEMOS LA DIFERENCIA</h3>
+            <p class="txt-justify">Un buen numero de refacciones adecuadas a la demanda de nuestra sucursal, lineas teléfonicas para agendar una cita o solicitar presupuestos y un sitio web para llegar a cualquier parte de la republica y asi respaldar la disponibilidad en nuestro país, así como el rápido servicio de nuestros proveedores, hacen posible el poder satisfacer las necesidades del mercado mexicano en la mayoría de los casos en menos de 24 horas.</p>
           </div>
-          <div class="col-md-6">
-            <h3 style="color: #97D1DA;">MISION</h3>
-            <p>Brindar un servicio integral comercializando refacciones y productos de alta calidad para todo tipo de industria a través de nuestra amplia red de distribución.</p>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-md-6">
-            <h3 style="color: #97D1DA;">NUESTROS PROVEEDORES</h3>
-            <p>Las marcas de los productos que distribuimos son fabricadas siguiendo rigurosos procedimientos de control de calidad, lo que nos permite ofrecer partes con estandares iguales a los del equipo original.</p>
-          </div>
-          <div class="col-md-6">
-            <h3 style="color: #97D1DA;">VISION</h3>
-            <p>Ser la empresa más eficiente, lider e innovadora en el suministro de refacciones y productos de alta calidad para todo tipo de industria.</p>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3 class="hm" style="color: #97D1DA;">MISION</h3>
+            <p class="txt-justify">Brindar un servicio integral comercializando refacciones y productos de alta calidad para todo tipo de industria a través de nuestra amplia red de distribución.</p>
           </div>
         </div>
 
         <div class="row">
-          <div class="col-md-6">
-            <h3 style="color: #97D1DA;">EL MEJOR TIEMPO DE ENTREGA</h3>
-            <p>Nuestro gran nivel del personal, apoyado en un sistema con tecnología inteligente para clasificación y ubicación de las refacciones, en nuestros almacenes, e incluso entre las existencias de nuestros proveedores, asegura la disponibilidad de las refacciones.</p>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3 class="hm" style="color: #97D1DA;">NUESTROS PROVEEDORES</h3>
+            <p class="txt-justify">Las marcas de los productos que distribuimos son fabricadas siguiendo rigurosos procedimientos de control de calidad, lo que nos permite ofrecer partes con estandares iguales a los del equipo original.</p>
           </div>
-          <div class="col-md-6">
-            <h3 style="color: #97D1DA;">VALORES</h3>
+          <div class="col-md-6 col-sm-6">
+            <h3 class="hm" style="color: #97D1DA;">VISION</h3>
+            <p class="txt-justify">Ser la empresa más eficiente, lider e innovadora en el suministro de refacciones y productos de alta calidad para todo tipo de industria.</p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3 class="hm" style="color: #97D1DA;">EL MEJOR TIEMPO DE ENTREGA</h3>
+            <p class="txt-justify">Nuestro gran nivel del personal, apoyado en un sistema con tecnología inteligente para clasificación y ubicación de las refacciones, en nuestros almacenes, e incluso entre las existencias de nuestros proveedores, asegura la disponibilidad de las refacciones.</p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h3 class="hm" style="color: #97D1DA;">VALORES</h3>
             <div>
               <p class="puntos">
                 <i class="fa fa-check" aria-hidden="true"></i> Honestidad <br> 
@@ -125,20 +128,20 @@
   <div class="section">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6 salto">
             <figure class="imagen">
               
             </figure>
-            <h1 style="color: #fff; text-align: center;">Mantenimiento y Reparación</h1>
+            <h1 class="tit-des" style="color: #fff; text-align: center;">Mantenimiento y Reparación</h1>
             <p style="color: #fff; text-align: justify;">Ofrecemos el servicio de mantenimiento para su equipo ligero, pesado ó especializado manejando todas las marcas disponibles, entregando un analisis del estado de su equipo. <br>
  
             Contamos con tecnicos capacitados, herramientas y equipos necesarios para el mantenimiento, diagnostico y reparacion de fallas con garantia de satisfaccion en nuestros trabajos, manejando refacciones originales, con el fin de ofrecerle la disponibilidad de su equipo.</p>
           </div>
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6 salto">
             <figure class="imagen2">
               
             </figure>
-            <h1 style="color: #fff; text-align: center;">Renta</h1>
+            <h1 class="tit-des" style="color: #fff; text-align: center;">Renta</h1>
             <p style="color: #fff; text-align: justify;">Ofrecemos el servicio de renta de maquinaria pesada y ligera, siendo un aliado en sus proyectos y trabajos de su empresa. <br><br>
  
             Tiene la opción de alquilar el equipo por horas ó días y si lo requiere, el operador del equipo.</p>
@@ -146,20 +149,20 @@
         </div> <br><br>
 
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6 salto">
             <figure class="imagen3">
               
             </figure>
-            <h1 style="color: #fff; text-align: center;">Asesoria y Presupuesto</h1>
+            <h1 class="tit-des" style="color: #fff; text-align: center;">Asesoria y Presupuesto</h1>
             <p style="color: #fff; text-align: justify;">Ofrecemos el servicio de mantenimiento para su equipo ligero, pesado ó especializado manejando todas las marcas disponibles, entregando un analisis del estado de su equipo. <br>
  
             Contamos con tecnicos capacitados, herramientas y equipos necesarios para el mantenimiento, diagnostico y reparacion de fallas con garantia de satisfaccion en nuestros trabajos, manejando refacciones originales, con el fin de ofrecerle la disponibilidad de su equipo.</p>
           </div>
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6 salto">
             <figure class="imagen4">
               
             </figure>
-            <h1 style="color: #fff; text-align: center;">Venta de Equipo</h1>
+            <h1 class="tit-des" style="color: #fff; text-align: center;">Venta de Equipo</h1>
             <p style="color: #fff; text-align: justify;">Ofrecemos el servicio de renta de maquinaria pesada y ligera, siendo un aliado en sus proyectos y trabajos de su empresa. <br><br>
  
             Tiene la opción de alquilar el equipo por horas ó días y si lo requiere, el operador del equipo.</p>
@@ -182,22 +185,22 @@
 
   <div class="container">
   <div class="row text-center">
-    <div class="col-sm-3 col-xs-6 first-box">
+    <div class="col-xs-12 col-sm-6 col-lg-3 first-box">
         <h1><span class="fa fa-phone" aria-hidden="true"></span></h1>
         <h3>Teléfono</h3>
         <p>PENDIENTE</p><br>
     </div>
-    <div class="col-sm-3 col-xs-6 second-box">
+    <div class="col-xs-12 col-sm-6 col-lg-3 second-box">
         <h1><span class="fa fa-street-view" aria-hidden="true"></span></h1>
         <h3>Dirección</h3>
         <p>Av. Fontana #374 Col. El Campanario. Tuxtla Gutierrez, Chiapas. C.P. 29054</p><br>
     </div>
-    <div class="col-sm-3 col-xs-6 third-box">
+    <div class="col-xs-12 col-sm-6 col-lg-3 third-box">
         <h1><span class="fa fa-envelope-o" aria-hidden="true"></span></h1>
         <h3>E-mail</h3>
         <p>info@mantenimientodennor.com</p><br>
     </div>
-    <div class="col-sm-3 col-xs-6 fourth-box">
+    <div class="col-xs-12 col-sm-6 col-lg-3 fourth-box">
       <h1><span class="fa fa-clock-o" aria-hidden="true"></span></h1>
         <h3>Horario</h3>
         <p>Lunes a Viernes de 9 am a 6 pm</p><br>
@@ -206,7 +209,7 @@
 </div>
 <br><br>
             <div class="row">
-                <div class="col-sm-6 col-centered">
+                <div class="col-xs-12 col-sm-9 col-centered">
                     <div class="panel panel-default">
                         <div class="panel-heading" >
                             <h1>Formulario de contacto</h1>
@@ -216,30 +219,31 @@
                         <div class="form-group">
                             <div class="input-group">
                                 <span class="input-group-addon"><i class="fa fa-user blue"></i></span>
-                                <input type="text" name="InputName" placeholder="Nombre completo" class="form-control" required>
+                                <input type="text" name="InputName" placeholder="Nombre completo" id="txtNOMBRE" class="form-control" required>
                             </div>
                         </div>
                         <div class="form-group">
                             <div class="input-group">
                                 <span class="input-group-addon"><i class="fa fa-envelope blue"></i></span>
-                                <input type="email" name="InputEmail" placeholder="Email" class="form-control" required>
+                                <input type="email" name="InputEmail" placeholder="Email" id="txtCORREO" class="form-control" required>
                             </div>
                         </div>
                         <div class="form-group">
                             <div class="input-group">
                                 <span class="input-group-addon"><i class="fa fa-phone blue"></i></span>
-                                <input type="text" name="InputName" placeholder="Teléfono" class="form-control" required>
+                                <input type="text" name="InputName" placeholder="Teléfono" id="txtTELEFONO" class="form-control" required>
                             </div>
                         </div>
                         <div class="form-group">
                             <div class="input-group">
                                 <span class="input-group-addon"><i class="fa fa-comment blue"></i></span>
-                                <textarea name="InputMessage" rows="6" class="form-control" type="text" required></textarea>
+                                <textarea name="InputMessage" rows="6" id="txtCOMENTARIO" class="form-control" type="text" required></textarea>
                             </div>
                         </div>
+                        <div id="_AJAX_PRE_" class="col-xs-12 col-lg-12"></div>
                         <div class="">
-                        <button type="submit" class="btn btn-info pull-right">ENVIAR <span class="fa fa-send"></span></button>
-                            <button type="reset" value="Reset" name="reset" class="btn">BORRAR <span class="fa fa-refresh"></span></button>
+                        <button type="submit" class="btn btn-info pull-right" onclick="sendCORREO()">ENVIAR <span class="fa fa-send"></span></button>
+                            <button type="reset" value="Reset" name="reset" class="btn" >BORRAR <span class="fa fa-refresh"></span></button>
                         </div>
                     </div>
                     </form>
